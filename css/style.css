@@ -1,0 +1,177 @@
+.wrapper{
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.anuncio {
+	text-align: center;
+	background-color: black;
+	padding: 5px;
+	color: white;
+	font-family: Montserrat;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+
+header {
+	text-align: center;
+}
+
+header img {
+	width: 550px;
+}
+
+
+
+
+
+nav li a {
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 12px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+
+}
+
+a:hover { 
+	opacity: 0.5;
+}
+
+nav {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	text-align: right;
+	text-align: center;
+
+}
+
+nav li {
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+}
+
+.divisor{
+	font-family: Montserrat;
+	display: inline-block;
+}
+
+.image {
+
+	position: relative;
+	left: 153px;
+	bottom: 1203px;
+}
+
+
+    .mySlides{
+	   width: 980px;
+    	height: 550px;
+    	margin: 0 auto;
+    	overflow: hidden;
+
+}
+
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	width: 1280px;
+}
+
+.shirt1{
+	width: 300px;
+	display: inline-block;
+	float: left;
+	margin-left: 8em;
+	padding: 1em;
+
+}
+
+.shirt2{
+	width: 300px;
+	display: inline-block;
+	float: left;
+	padding: 1em;
+
+}
+
+.shirt3{
+	width: 300px;
+	display: inline-block;
+	padding: 1em;
+
+}
+
+
+
+.button {
+    background-color:  black;
+    border: none;
+    color: white;
+    font-family: Montserrat;
+    margin-left: 240px;
+    padding: 15px 25px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+    letter-spacing: 3px;
+	font-weight: bold;
+    font-size: 12px;
+}
+
+.button2 {
+    background-color: black;
+    border: none;
+    color: white;
+    font-family: Montserrat;
+    margin-left: 920px;
+    padding: 15px 25px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+    letter-spacing: 3px;
+	font-weight: bold;
+    font-size: 12px;
+}
+
+.button3 {
+    background-color: black;
+    border: none;
+    color: white;
+    font-family: Montserrat;
+    margin-left: 600px;
+    padding: 15px 25px;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+    letter-spacing: 3px;
+	font-weight: bold;
+    font-size: 12px;
+}
+
+
+footer {
+	margin-top: 100px;
+	padding-top: 20px;
+	padding: 10px;
+	clear: both;
+	background-color: black;
+	padding: 10px;
+}
+
+footer p {
+	color: white;
+	font-family: Montserrat;
+	font-size: 13px;
+	padding: 25px;
+	text-align: center;
+
+}
